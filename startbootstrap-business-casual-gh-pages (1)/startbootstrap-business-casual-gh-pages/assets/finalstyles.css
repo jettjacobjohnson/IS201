@@ -1,0 +1,30 @@
+.tanbackground{
+    background-color: burlywood;
+}
+
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: darkslategrey;
+}
+
+.big{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.underline{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgreen;
+}
+
+.last{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: crimson;
+    font-size: 19px;
+    text-decoration: wavy;
+}
